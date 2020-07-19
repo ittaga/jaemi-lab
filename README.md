@@ -1,3 +1,2 @@
-# brenin
-
-https://ittaga.github.io/brenin/
+# 홈
+https://ittaga.github.io/jaemi-lab
